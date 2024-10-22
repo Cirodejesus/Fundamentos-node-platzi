@@ -1,4 +1,4 @@
-global.miVariable = 'elValor'
+global.miVariable = 'elValor2'
 
 console.log(miVariable);
 
